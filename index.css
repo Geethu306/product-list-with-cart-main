@@ -1,0 +1,27 @@
+.waffle{
+    position: relative;
+}
+.waffle-img{
+    width: 438px;
+    height: 432px;
+    border-radius: 20px;
+}
+.add-cart{
+    padding: 20px;
+    position: absolute;
+    top: 450px;
+    left: 105px;
+}
+.add-cart-btn{
+    /* padding-left: 10px; */
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    padding: 10px;
+    width: 170px;
+}
+.waffle-text{
+    color: #9b7f6b;
+    font-size: 25px;
+}
